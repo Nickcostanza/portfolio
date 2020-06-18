@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Sriracha', cursive;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.container {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    margin-top: 40px;
+    border-width: 10px;
+    border-style: inset;
+    border-color: black;   
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+
+img {
+    display: block;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
