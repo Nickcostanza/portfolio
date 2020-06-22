@@ -11,7 +11,7 @@ body {
     background-color: lightgray;
 }
 
-.container-sm {
+.container-md {
     width: 500px;
     height: 300px;
     background-color: white;
@@ -27,7 +27,7 @@ h2 {
     text-align: center;
     text-decoration: underline;
     margin-bottom: 10px;
-    padding-top: 40px;
+    padding-top: 10px;
 }
 
 ul, li {

@@ -13,7 +13,7 @@ body {
     background-color: lightgray;
 }
 
-.container-sm {
+.container-md {
     width: 1000px;
     background-color: white;
     margin-top: 40px;
@@ -22,17 +22,6 @@ body {
     border-color: black;
 }
 
-img {
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-left: 40px;
-    margin-bottom: 40px;
-    padding: 15x;
-    
-    
-   
-
-}
 
 h2 {
     text-align: center;
@@ -44,4 +33,23 @@ h2 {
 p {
     margin: 10px;
 }
+
+img {
+    margin-bottom:40px;
+    margin-left: 40px;
+    
+    
+
+}
+
+ul, li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
 
